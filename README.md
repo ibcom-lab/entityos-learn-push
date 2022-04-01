@@ -1,4 +1,4 @@
-# entityos-learn-push
+# entityOS Learn Push
 
 Example app that pushes messages to a user.
 
@@ -16,5 +16,4 @@ Flow;
 3. Create the push notification - ie email message
 4. Send the message to users
 
----
 
