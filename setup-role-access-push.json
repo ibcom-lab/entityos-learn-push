@@ -1,0 +1,28 @@
+﻿{
+	"template":
+	{
+		"roles":
+		[
+			{
+				"title": "Push",
+				"methods":
+				[
+					{"title": "ACTION_SEARCH", "canuse": "Y", "canadd": "N", "canupdate": "N", "canremove": "N", "guidmandatory": "N"},
+					{"title": "CONTACT_PERSON_SEARCH", "canuse": "Y", "canadd": "N", "canupdate": "N", "canremove": "N", "guidmandatory": "N"},
+					{"title": "CORE_DEBUG_LOG_MANAGE", "canuse": "N", "canadd": "Y", "canupdate": "N", "canremove": "Y", "guidmandatory": "N"},
+					{"title": "CORE_LOGOFF", "canuse": "Y", "canadd": "N", "canupdate": "N", "canremove": "N", "guidmandatory": "N"},
+					{"title": "CORE_MORE_SEARCH", "canuse": "Y", "canadd": "N", "canupdate": "N", "canremove": "N", "guidmandatory": "N"},
+					{"title": "LOGON", "canuse": "Y", "canadd": "N", "canupdate": "N", "canremove": "N", "guidmandatory": "N"},
+					{"title": "MESSAGING_AUTOMATION_RECIPIENT_SEARCH", "canuse": "Y", "canadd": "N", "canupdate": "N", "canremove": "N", "guidmandatory": "N"},
+					{"title": "PRODUCT_SEARCH", "canuse": "Y", "canadd": "N", "canupdate": "N", "canremove": "N", "guidmandatory": "N"},
+					{"title": "SETUP_USER_ROLE_SEARCH", "canuse": "Y", "canadd": "N", "canupdate": "N", "canremove": "N", "guidmandatory": "N"},
+					{"title": "SETUP_USER_SEARCH", "canuse": "Y", "canadd": "N", "canupdate": "N", "canremove": "N", "guidmandatory": "N"}
+				],
+				"properties":
+				[
+
+				]
+			}
+		]
+	}
+}

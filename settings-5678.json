@@ -1,0 +1,32 @@
+{
+	"entityos":
+	{
+		"hostname": "api.entityos.cloud", 
+		"logon": "xxx", 
+		"password": "xxx", 
+		"email": "xxx",
+		"testing": 
+		{
+			"status": "true",
+			"showData": "true",
+			"break": "-"
+		},
+		"convert": "true"
+	},
+	"push":
+	{
+		"namespace": "5678-1.0.0",
+		"automationName": "Updates",
+		"productUpdatedNewDays": "100",
+		"actionTypeLearningActivity": "1694,1708,1711,1723",
+		"objects":
+		{
+			"contactPerson": "32",
+			"contactBusiness": "12",
+			"project": "1",
+			"product": "16",
+			"action": "17",
+			"event": "39"
+		}
+	}
+}	

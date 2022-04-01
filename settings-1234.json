@@ -1,0 +1,22 @@
+{
+	"entityos":
+	{
+		"hostname": "api.entityos.cloud", 
+		"logon": "xxx", 
+		"password": "xxx", 
+		"email": "journal@ths.community",
+		"testing": 
+		{
+			"status": "true",
+			"showData": "true",
+			"break": "-"
+		},
+		"convert": "true"
+	},
+	"push":
+	{
+		"namespace": "1234-1.0.0",
+		"automationName": "What's Up",
+		"taskStatusesClosed": "3,4"
+	}
+}	
